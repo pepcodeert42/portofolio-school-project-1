@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio Pepijn</title>
     <link rel="stylesheet" href="stylesheet.css">
-    <link rel="icon" type="image/x-icon" href="website/icon.png">
+    <link rel="icon" type="image/x-icon" href="website-fotos/icon.png">
     <script src="script.js"></script>
 </head>
 
@@ -45,11 +45,11 @@
         <p>Ik heb software development gekozen omdat
             ik al heel mijn leven naar computers kijk
             en gefacineerd ben over hoe alles nou precies werkt</p>
-        <img src="website/klim-foto.jpg" alt="foto van klimmer">
+        <img src="website-fotos/klim-foto.jpg" alt="foto van klimmer">
     </div>
 
     <div>
-        <img src="website/foto-barcelona.jpg" alt="foto-barcelona">
+        <img src="website-fotos/foto-barcelona.jpg" alt="foto-barcelona">
 
     </div>
 

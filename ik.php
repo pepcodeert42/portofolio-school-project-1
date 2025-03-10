@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio Pepijn</title>
     <link rel="stylesheet" href="stylesheet.css">
-    <link rel="icon" type="image/x-icon" href="website/icon.png">
+    <link rel="icon" type="image/x-icon" href="website-fotos/icon.png">
     <script src="script.js"></script>
 </head>
 
@@ -48,7 +48,7 @@
     </div>
 
     <div>
-        <img src="website/katten-foto.jpg" alt="katten op de bank">
+        <img src="website-fotos/katten-foto.jpg" alt="katten op de bank">
     </div>
 
     <div>
@@ -59,15 +59,15 @@
             Benieuwd naar mijn foto's hier heb je een paar.<br>
         </p>
 
-        <img class="foto-opmaak-ik" src="website/foto-uitzicht.jpg" alt="foto-uitzicht">
-        <img class="scale-panorama" src="website/foto-uitzicht2.jpg" alt="foto-uitzicht">
+        <img class="foto-opmaak-ik" src="website-fotos/foto-uitzicht.jpg" alt="foto-uitzicht">
+        <img class="scale-panorama" src="website-fotos/foto-uitzicht2.jpg" alt="foto-uitzicht">
 
     </div>
 
     <div class="foto-opmaak-ik">
 
-        <img src="website/foto-roze-wolken.jpg" alt="foto roze lucht">
-        <img src="website/foto-clearsky.jpg" alt="clearsky">
+        <img src="website-fotos/foto-roze-wolken.jpg" alt="foto roze lucht">
+        <img src="website-fotos/foto-clearsky.jpg" alt="clearsky">
 
     </div>
 

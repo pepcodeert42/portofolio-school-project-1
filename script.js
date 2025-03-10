@@ -2,13 +2,13 @@ const tijd = new Date().getHours();
 let begroet;
 
 if (tijd < 5) {
-    begroet = "Goeienacht";
+    begroet = "Goeienacht ";
 } else if (tijd < 11) {
-    begroet = "goeiemorgen welkom op mijn portofolio";
+    begroet = "goeiemorgen ";
 } else if (tijd < 17) {
-    begroet = "goeiemiddag welkom op mijn portofolio";
+    begroet = "goeiemiddag ";
 } else {
-    begroet = "goeieavond welkom op mijn portofolio";
+    begroet = "goeieavond ";
 }
 
 function groet() {

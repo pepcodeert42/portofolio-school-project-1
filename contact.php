@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio Pepijn</title>
     <link rel="stylesheet" href="stylesheet.css">
-    <link rel="icon" type="image/x-icon" href="website/icon.png">
+    <link rel="icon" type="image/x-icon" href="website-fotos/icon.png">
     <script src="script.js"></script>
 </head>
 
@@ -35,8 +35,8 @@
         <p>Wil je dat ik voor u kom werken? zoek mij op via mijn socials</p>
 
         <div class="contact-icons">
-            <a href="https://www.instagram.com/pepijn_murphy"><img src="website/insta2-logo.png" alt="Instagram"></a>
-            <a href="mailto:pepijnbos7@gmail.com"><img src="website/mail-logo.png" alt="Email"></a>
+            <a href="https://www.instagram.com/pepijn_murphy"><img src="website-fotos/insta2-logo.png" alt="Instagram"></a>
+            <a href="mailto:pepijnbos7@gmail.com"><img src="website-fotos/mail-logo.png" alt="Email"></a>
         </div>
 
         <p> tel: 06 20691851</p>

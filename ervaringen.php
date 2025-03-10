@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio Pepijn</title>
     <link rel="stylesheet" href="stylesheet.css">
-    <link rel="icon" type="image/x-icon" href="website/icon.png">
+    <link rel="icon" type="image/x-icon" href="website-fotos/icon.png">
     <script src="script.js"></script>
 </head>
 
@@ -73,7 +73,7 @@
         Klik hier onder voor meer info</p>
 
         <a href="https://www.techniekcollegerotterdam.nl/over-techniek-college-rotterdam">
-            <img src="website/tcr-logo.png" alt="tcr logo"></a>
+            <img src="website-fotos/tcr-logo.png" alt="tcr logo"></a>
 
     </div>
 
@@ -84,15 +84,15 @@
     </div>
 
     <div>
-        <img src="website/lege-foto.png" alt="lege-foto">
+        <img src="website-fotos/lege-foto.png" alt="lege-foto">
     </div>
 
     <div>
-        <img src="website/lege-foto.png" alt="lege-foto">
+        <img src="website-fotos/lege-foto.png" alt="lege-foto">
     </div>
 
     <div>
-        <img src="website/lege-foto.png" alt="lege-foto">
+        <img src="website-fotos/lege-foto.png" alt="lege-foto">
     </div>
 
 </main>
