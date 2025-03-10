@@ -1,0 +1,168 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(225deg, #410270, #16e1ff);
+    color: #333;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+/* navigatie bar style */
+nav a {
+    color: white;
+    margin: 0;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: transform 0.3s;
+    display: inline-block;
+    width: 70px;
+}
+
+nav a:hover {
+    transform: scale(1.2);
+}
+
+main {
+    margin: 5% auto;
+    padding: 8%;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    max-width: 80%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 18px;
+}
+
+h1, h2 {
+    font-family: 'Georgia', serif;
+}
+
+.contact-icons img {
+    width: 30px;
+    margin: 0 10px;
+    transition: transform 0.3s;
+    display: inline-block;
+    box-shadow: none;
+    border-radius: 25px;
+}
+
+.contact-icons img:hover {
+    transform: scale(1.2);
+}
+
+
+table, td, th{
+    border: 1px solid black;
+    width: 50%;
+}
+
+
+main div img{
+    width: 60%;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.foto-opmaak-ik{
+    width: 50%;
+}
+
+.scale-panorama{
+    width: 90%;
+    height: 40%;
+}
+
+/* pagina indeling*/
+main div{
+    min-width: 50%;
+    max-width: 50%;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+/* de form style */
+.form{
+    background-color: #d6d6d6;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+input[type=radio]{
+    margin-left: 15px;
+}
+input[type=text]{
+    width: 20%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    padding: 4px;
+    border-radius: 5px;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+    border: 3px solid #555;
+    background-color: #ccc;
+    width: 90%;
+}
+
+footer{
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+.dark-mode-button{
+    border-radius: 5px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 5px;
+    margin-top: 7px;
+}
+
+.dark-mode{
+    color: white;
+    background: linear-gradient(225deg, #040633, #064e6a);
+}
+
+.dark-mode main{
+    color: white;
+    background-color: rgba(0,0,0,0.50);
+}
+
+.cookie{
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    margin: 100px;
+    padding: 50px;
+}
+
+.cookie-button-style{
+    margin: 5px;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    background-color: #3f44ff;
+    border: none;
+}
+
+.countdown-style{
+    background-color: #282629;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
